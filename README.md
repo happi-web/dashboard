@@ -17,7 +17,6 @@ The purpose of this project is to practice and reinforce skills in creating comp
 
 - **HTML5**: For structuring the dashboard content.
 - **CSS3**: For styling and layout, with an emphasis on CSS Grid for layout design.
-- **JavaScript (Optional)**: For adding interactivity (e.g., dynamic content updates or animations).
 
 ## Screenshots
 
@@ -37,7 +36,7 @@ project-folder
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/dashboard-project.git
+   git clone https://github.com/happi-web/dashboard.git
    ```
 
 2. Open the `index.html` file in your preferred browser to view the dashboard.

@@ -15,7 +15,7 @@
   --accent: #fbbf24;
   --white: #fff;
   --black: #000;
-  --subtle-bg: #FFFDD0;
+  --subtle-bg: #fffee8;
 }
 
 /* General Styles */
@@ -183,9 +183,9 @@ img {
 .container2 > .grid-item {
   background-color: var(--subtle-bg);
   color: #ddd;
-  height: 45vh;
+  height: 100%;
   padding: 12px;
-  font-size: 1.5rem;
+  font-size: 1rem;
   border-radius: 10px;
 }
 
@@ -199,4 +199,26 @@ img {
 {
   display: flex;
   flex-direction: column;
+}
+.text h3
+{
+  color: #000;
+}
+
+.text p
+{
+  color: #424242;
+}
+.items
+{
+  display: flex;
+  gap: 20px;
+}
+.info h4
+{
+  color: #000;
+}
+.info p
+{
+  color: #424242;
 }
